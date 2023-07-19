@@ -9,3 +9,5 @@
 + 声卡正常
 + 键盘正常
 
+> 用另外一个红米14的EFI修改得来: https://github.com/depaler/RedmiBook-14-II-AMD-hackintosh
+
